@@ -1,2 +1,2 @@
 # my-first-project
-just an example, I will blow this up later
+My first project while learning coding and GitHub
